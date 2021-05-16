@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_error_message">An error occurred while loading data</string>
+    <string name="animal_image_description">Animal Image</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_location">Animal location</string>
+    <string name="animal_lifespan">Animal lifespan</string>
+    <string name="animal_diet">Animal diet</string>
+</resources>
